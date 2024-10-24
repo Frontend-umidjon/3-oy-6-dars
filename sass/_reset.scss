@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-lg{
+    max-width: 1472px;
+    margin: 0 auto;
+    padding: 0 16px;
+    width: 100%;
+}
+.container{
+    max-width: 1392px;
+    margin: 0 auto;
+    padding: 0 16px;
+    width: 100%;
+}
+
+@font-face {
+    font-family: Commons;
+    src: url(../fonts/TT\ Commons\ Regular.woff);
+}
+
+@font-face {
+    font-family: Commons-Bold;
+    src: url(../fonts/TT\ Commons\ ExtraBold.woff);
+}
